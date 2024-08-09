@@ -1,0 +1,4 @@
+flask
+vanna[chromadb,gemini,bigquery]
+db-dtypes
+configobj
